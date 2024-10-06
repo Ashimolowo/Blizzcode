@@ -43,7 +43,7 @@
 }
 .carousel-left{
     display: flex;
-    justify-Content: center;
+    justify-content: center;
     align-Items: center;
     position: relative;
 }
